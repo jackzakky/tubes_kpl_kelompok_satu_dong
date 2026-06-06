@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("tubes_kpl_kelompok_satu_dong")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b2a196196413e8f1cfe6cf255897c445a09ac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("tubes_kpl_kelompok_satu_dong")]
