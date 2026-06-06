@@ -1,6 +1,6 @@
 ﻿namespace tubes_kpl_kelompok_satu_dong
 {
-    partial class Form1
+    partial class FormDashboard
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            SuspendLayout();
+            // 
+            // FormDashboard
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Name = "FormDashboard";
             Text = "Form1";
+            Load += this.FormDashboard_Load;
+            ResumeLayout(false);
         }
 
         #endregion

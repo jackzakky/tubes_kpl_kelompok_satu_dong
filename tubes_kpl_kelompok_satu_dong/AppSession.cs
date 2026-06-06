@@ -9,7 +9,7 @@ namespace tubes_kpl_kelompok_satu_dong
         private static readonly object _padlock = new object();
 
         
-        //public List<MenuItem> MenuList { get; set; } = new List<MenuItem>();
+        public List<MenuItem> MenuList { get; set; } = new List<MenuItem>();
         //public List<Voucher> ClaimedVouchers { get; set; } = new List<Voucher>();
 
         private AppSession() { }
