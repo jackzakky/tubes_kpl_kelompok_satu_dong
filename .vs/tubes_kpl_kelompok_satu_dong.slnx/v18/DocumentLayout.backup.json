@@ -1,17 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\",
+  "WorkspaceRootPath": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\",
   "Documents": [
     {
-<<<<<<< HEAD
-=======
-      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\semester 4\\kpl\\tubes kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\tugass kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
->>>>>>> a04a9a4a70100013b07dee0b97208c089357e8fd
-      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\semester 4\\kpl\\tubes kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\tugass kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\tugass kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\tugass kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\modulmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\modulmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|d:\\tugass kpl\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A255748-BA66-C7C6-4974-B724F75F5E2A}|tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj|solutionrelative:tubes_kpl_kelompok_satu_dong\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,27 +39,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppSession.cs",
-              "DocumentMoniker": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\AppSession.cs",
-              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\AppSession.cs",
-              "ToolTip": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\AppSession.cs",
-              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\AppSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "FormDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\FormDashboard.Designer.cs",
+              "ToolTip": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.Designer.cs",
+              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\FormDashboard.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T18:02:20.276Z",
+              "WhenOpened": "2026-06-06T19:58:04.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\Form1.cs",
-              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\Form1.cs",
-              "ToolTip": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\Form1.cs [Design]",
-              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\Form1.cs [Design]",
+              "Title": "tubes_kpl_kelompok_satu_dong",
+              "DocumentMoniker": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
+              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
+              "ToolTip": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
+              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T19:57:13.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\FormDashboard.cs",
+              "ToolTip": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.cs",
+              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\FormDashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:49:53.748Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-06T18:37:22.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModulMenu.cs",
+              "DocumentMoniker": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\ModulMenu.cs",
+              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\ModulMenu.cs",
+              "ToolTip": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\ModulMenu.cs",
+              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\ModulMenu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:31:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSession.cs",
+              "DocumentMoniker": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\AppSession.cs",
+              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\AppSession.cs",
+              "ToolTip": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\AppSession.cs",
+              "RelativeToolTip": "tubes_kpl_kelompok_satu_dong\\AppSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:29:14.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "tubes_kpl_kelompok_satu_dong\\FormDashboard.cs",
+              "ToolTip": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T18:28:18.839Z"
             }
           ]
         }

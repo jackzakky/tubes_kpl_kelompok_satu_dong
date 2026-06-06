@@ -17,7 +17,11 @@ namespace tubes_kpl_kelompok_satu_dong
             btnMenu.Click += (s, e) => new FormMenuMakanan().ShowDialog();
             Controls.Add(btnMenu);
 
-           
+            Button btnVoucher = new Button { Text = "Buka Klaim Voucher", Location = new Point(200, 50), Width = 130, Height = 50 };
+            btnVoucher.Click += (s, e) => new FormKlaimVoucher().ShowDialog();
+            Controls.Add(btnVoucher);
+
+
         }
     }
 }

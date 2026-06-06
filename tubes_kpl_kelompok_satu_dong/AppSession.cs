@@ -10,7 +10,7 @@ namespace tubes_kpl_kelompok_satu_dong
 
         
         public List<MenuItem> MenuList { get; set; } = new List<MenuItem>();
-        //public List<Voucher> ClaimedVouchers { get; set; } = new List<Voucher>();
+        public List<Voucher> ClaimedVouchers { get; set; } = new List<Voucher>();
 
         private AppSession() { }
 

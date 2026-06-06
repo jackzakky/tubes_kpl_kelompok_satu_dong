@@ -1,0 +1,17 @@
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.FormDashboard.resources
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.csproj.GenerateResource.cache
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.AssemblyInfoInputs.cache
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.AssemblyInfo.cs
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.csproj.CoreCompileInputs.cache
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.sourcelink.json
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\bin\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.exe
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\bin\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.deps.json
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\bin\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.runtimeconfig.json
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\bin\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.dll
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\bin\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.pdb
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.dll
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\refint\tubes_kpl_kelompok_satu_dong.dll
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.pdb
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\tubes_kpl_kelompok_satu_dong.genruntimeconfig.cache
+D:\TUGASS KPL\tubes_kpl_kelompok_satu_dong\tubes_kpl_kelompok_satu_dong\obj\Debug\net10.0-windows\ref\tubes_kpl_kelompok_satu_dong.dll

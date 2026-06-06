@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj": {}
+    "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj": {}
   },
   "projects": {
-    "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj": {
+    "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
+        "projectUniqueName": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
         "projectName": "tubes_kpl_kelompok_satu_dong",
-        "projectPath": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\semester 4\\KPL\\TUBES KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\obj\\",
+        "projectPath": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "D:\\TUGASS KPL\\tubes_kpl_kelompok_satu_dong\\tubes_kpl_kelompok_satu_dong\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -37,7 +37,6 @@
             ClientSize = new Size(800, 450);
             Name = "FormDashboard";
             Text = "Form1";
-            Load += this.FormDashboard_Load;
             ResumeLayout(false);
         }
 
